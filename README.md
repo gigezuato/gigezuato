@@ -1,13 +1,29 @@
-## Hi, Welcome to my profile! 😊
+## Hi, welcome to my profile! 😊
 ### I'm Giovana Gezuato and...
 ***
-🎓 I'm in the third semester of Computer Science
+<div>
+  <img align="left" alt="trust the process" width="220" height="220" src="https://github.com/gigezuato/gigezuato/blob/main/images/trust%20de%20process.jpg">
 
-📚 Currently delving into *Python* and also tools like *Git, GitHub*. In addition, I am studying *Java* as part of a college course.
+  🎓 I'm in the third semester of Computer Science
 
-📌 I'm a very curious person who loves to learn new things and immerse myself in different experiences.
+  📚 Currently delving into *Python* and also tools like *Git, GitHub*. In addition, I am studying *Java* as part of a college course.
 
-🔎 I am looking for an internship to apply my knowledge and learn more and more.
+  📌 I'm a very curious person who loves to learn new things and immerse myself in different experiences.
 
-🎯 My goal is to make people's lives more pratical through technology.
+  🔎 I am looking for an internship to apply my knowledge and learn more and more.
+
+  🎯 My goal is to make people's lives more pratical through technology.
+
+</div>
+
+
+### GitHub Stats
+***
+<div>
+  <img align="right" alt="computer" width="170" height="170" src="https://github.com/gigezuato/gigezuato/blob/main/images/green.jpg">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigezuato&show_icons=true&theme=cobalt)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigezuato&layout=donut&theme=cobalt)](https://github.com/gigezuato/github-readme-stats)
+
+</div>
 
