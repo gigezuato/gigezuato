@@ -23,7 +23,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigezuato&show_icons=true&theme=cobalt)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigezuato&layout=donut&theme=cobalt)](https://github.com/gigezuato/github-readme-stats)
-  <img align="left" alt="computer" width="280" height="190" src="https://github.com/gigezuato/gigezuato/blob/main/images/green.jpg">
+  <img align="center" alt="computer" width="280" height="190" src="https://github.com/gigezuato/gigezuato/blob/main/images/green.jpg">
 
 </div>
 
