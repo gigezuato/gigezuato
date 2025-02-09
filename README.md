@@ -19,7 +19,7 @@
 
 ### GitHub Stats
 ***
-<div>
+<div align="center">
   <img align="right" alt="computer" width="170" height="170" src="https://github.com/gigezuato/gigezuato/blob/main/images/green.jpg">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigezuato&show_icons=true&theme=cobalt)
