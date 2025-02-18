@@ -6,7 +6,7 @@
 
   🎓 I'm in the third semester of Computer Science
 
-  📚 Currently delving into *Python* and also tools like *Git, GitHub*. In addition, I am studying *Java* as part of a college course.
+  📚 Currently studying *Python* and *Java*, also tools like *Git, GitHub*. 
 
   📌 I'm a very curious person who loves to learn new things and immerse myself in different experiences.
 
