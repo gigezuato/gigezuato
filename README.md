@@ -1,5 +1,5 @@
 ## Hi, welcome to my profile! 😊
-### I'm Giovana Gezuato and...
+### ✨ I'm Giovana Gezuato and...
 ***
 <div>
   <img align="right" alt="trust the process" width="220" height="220" src="https://github.com/gigezuato/gigezuato/blob/main/images/trust%20de%20process.jpg">
@@ -17,7 +17,7 @@
 </div>
 
 
-### GitHub Stats
+### ✨ GitHub Stats
 ***
 <div align="center">
   
@@ -27,4 +27,10 @@
 
 </div>
 
-
+### ✨ Projects
+***
+| Project | Description | Status | Language |
+|--------|-------------|--------|----------|
+| [💵 FinPlanner](https://github.com/gigezuato/finplanner) | A personal finance organizer that helps manage income and expenses. | ![In Progress](https://img.shields.io/badge/status-in--progress-yellow) | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [🛒 Lista de Compras](https://github.com/gigezuato/Lista-de-compras) | A Python program to create and manage a school supply list, with Excel export support. | ![Completed](https://img.shields.io/badge/status-completed-brightgreen) | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [🎬 Bilheteria Virtual](https://github.com/gigezuato/Bilheteria-Virtual) | A virtual cinema ticket booking system with user interaction. | ![In Progress](https://img.shields.io/badge/status-in--progress-yellow) | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
