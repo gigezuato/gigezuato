@@ -8,10 +8,10 @@
   <img align="right" alt="trust the process" width="220" height="195" src="https://github.com/gigezuato/gigezuato/blob/main/images/trust%20de%20process.jpg">
 
 - 🎓 4th semester of **Computer Science**  
-- 🐍 Focused on *Python* for **data and machine learning**  
-- 🗄️ Learning *SQL* for databases  
-- 📌 Curious mind, always exploring new challenges  
-- 🔎 Looking for an **internship** to apply my knowledge and grow 🚀  
+- 🐍 Studying Python focused on **Data Science** and **Machine Learning**
+- ⚙️ Interested in **Backend** and the integration between development and the data area
+- 👩‍💻 Gaining experience with *SQL (MySQL)* and *C#/.NET*
+- 📌 Curious mind, always exploring new challenges
 
 </div>
 
